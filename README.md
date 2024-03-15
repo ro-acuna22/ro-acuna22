@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sobre mi  👋
 
 <!--
 **ro-acuna22/ro-acuna22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
